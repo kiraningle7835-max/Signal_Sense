@@ -100,4 +100,4 @@ No local setup? Upload the notebooks to [Google Colab](https://colab.research.go
 
 ## Mentor
 
-**[Your Name]** | [Branch, Year, IIT Bombay] | [Email / LinkedIn]
+**[Sai_Ingle]** | [Electrical Engineeering,2nd year, IIT Bombay] | [saiingle7835@gmail.com]
