@@ -66,6 +66,7 @@ Generate waveform -> Add noise -> Filter (denoise) -> Extract features -> Classi
 - Matplotlib tutorials: https://matplotlib.org/stable/tutorials/index.html
 - 3Blue1Brown, "But what is the Fourier Transform?": https://www.youtube.com/watch?v=spUNpyF58BY
 - SciPy signal processing guide (for later weeks): https://docs.scipy.org/doc/scipy/tutorial/signal.html
+- **Reference book:** A. V. Oppenheim and A. S. Willsky (with S. H. Nawab), *Signals and Systems*, 2nd Edition, Prentice Hall. For Week 1, read Chapter 1 (Signals and Systems) for the basics of signals, sinusoids, and their properties.
 
 **Tasks**
 1. Work through [`week1/01_signal_basics.ipynb`](week1/01_signal_basics.ipynb).
