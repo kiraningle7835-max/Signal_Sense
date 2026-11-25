@@ -2,7 +2,7 @@
 
 ![Signal Sense banner](images/banner.png)
 
-**WiDS 6.0 | Guided Project | Core Projects (Electrical Engineering + Data Science)**
+**WiDS 6.0 | Collaborative Project | Core Projects (Electrical Engineering + Data Science)**
 
 ---
 
